@@ -1,6 +1,7 @@
 # Privacy Policy for YVR Traveler App
 
 **Effective Date: November 16, 2023**
+
 Last Updated: November 16, 2023
 
 Thank you for using the Passenger Experience Platform. Your privacy and the security of your personal information are important to us. This Privacy Policy outlines how Vancouver Airport Authority (“we”, “us”, “our”) collects, uses, and protects your information when you use the App. By using the App, you consent to the practices described in this Privacy Policy.

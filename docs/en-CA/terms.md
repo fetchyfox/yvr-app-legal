@@ -1,6 +1,7 @@
 # Terms of Use for YVR Traveler App
 
 **Effective Date: November 16, 2023**
+
 Last Updated: November 16, 2023
 
 The Passenger Experience App (the “**App**”) of the Vancouver Airport Authority (the “**Authority**”, “**we**”,“**us**”, “**our**”) connects consumers, retail stores, service providers and restaurants, with our staff to facilitate services including, but not limited to, on-demand delivery services (the “**Services**”).

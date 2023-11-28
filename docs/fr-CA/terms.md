@@ -1,6 +1,7 @@
 # Conditions d’utilisation de l’application Passenger Experience
 
 **Date d’entrée en vigueur : 16 Novembre 2023**
+
 Dernière mise à jour : 16 Novembre 2023
 
 L’application Passenger Experience (l’« **application** ») de l’Administration de l’aéroport de Vancouver (l’« **Administration** », « **nous** », « **nos** ») met en relation notre personnel avec les consommateurs, les magasins de détail, les fournisseurs de services de même que les restaurants, afin de faciliter la fourniture de services, y compris, mais sans s’y limiter, la fourniture des services de livraison sur demande (les « **services** »).

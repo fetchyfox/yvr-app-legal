@@ -1,6 +1,7 @@
 # Politique de confidentialité de l’application YVR Traveler
 
 **Date d’entrée en vigueur : 16 Novembre 2023**
+
 Dernière mise à jour : 16 Novembre 2023
 
 Merci d’utiliser la plateforme Passenger Experience. Votre vie privée et la sécurité de vos renseignements personnels sont importantes pour nous. La présente politique de confidentialité décrit comment l’Administration de l’aéroport de Vancouver (« **nous** », « **notre** ») collecte, utilise et protège vos renseignements lorsque vous utilisez l’application. En utilisant l’application, vous consentez aux pratiques décrites dans la présente politique de confidentialité.
