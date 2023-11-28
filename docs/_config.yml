@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
-name: ""
-title: null
-description: ""
+defaults:
+  - scope:
+      path: "" # empty string means all files in the project
+    values:
+      layout: "default"
