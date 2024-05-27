@@ -1,0 +1,11 @@
+body {
+    color: #333333; /* Customize the main text color */
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #00558A; /* Customize the heading colors */
+}
+
+a {
+    color: #719BBE; /* Customize the link color */
+}

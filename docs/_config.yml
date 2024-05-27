@@ -7,3 +7,11 @@ defaults:
       path: "" # empty string means all files in the project
     values:
       layout: "default"
+
+
+
+include:
+  - docs/assets/css/custom.css
+
+custom_css: docs/assets/css/custom.css
+
